@@ -21,7 +21,7 @@ jobs:
       MaxThreadCount: 96
       SingboxPath: sing-box
       V2rayFormatResultPath: sub/proxies.txt
-      SingboxFormatResultPath: sub/singbox.txt
+      SingboxFormatResultPath: sub/singbox.json
       Sources: |
         https://api.yebekhe.link/shervin/
         https://clashnode.com/wp-content/uploads/2024/02/20240228.txt
